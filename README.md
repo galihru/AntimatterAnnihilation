@@ -1,5 +1,11 @@
 # 反物质湮灭过程 GUI 可视化仿真器
 
+> 模拟前
+![image](https://github.com/galihru/AntimatterAnnihilation/blob/main/img/%E5%B1%8F%E5%B9%95%E6%88%AA%E5%9B%BE%202026-04-23%20112538.png)
+
+> 模拟上
+![image](https://github.com/galihru/AntimatterAnnihilation/blob/main/img/%E5%B1%8F%E5%B9%95%E6%88%AA%E5%9B%BE%202026-04-23%20112558.png)
+
 > 基于现象学速率方程与阈值判据的教学型交互式仿真工具
 
 ## 项目简介
@@ -106,8 +112,11 @@ $$
 
 > 该模型用于教学与可视化，不用于实验级定量预测。
 
+![image](https://github.com/galihru/AntimatterAnnihilation/blob/main/img/%E5%B1%8F%E5%B9%95%E6%88%AA%E5%9B%BE%202026-04-23%20112653.png)
+
 ## 界面控件说明
 
+![image](https://github.com/galihru/AntimatterAnnihilation/blob/main/img/%E5%B1%8F%E5%B9%95%E6%88%AA%E5%9B%BE%202026-04-23%20112623.png)
 - 初始物质量（mg）
 - 初始反物质量（mg）
 - 可视化粒子数
@@ -118,7 +127,7 @@ $$
 - 仿真速度
 - 开始 / 暂停
 - 重置
-- 参数扫描导出 CSV
+- 参数扫描导出 [CSV](https://github.com/galihru/AntimatterAnnihilation/blob/main/antimatter_scan_20260423_112703.csv)
 
 ## 输出结果如何理解
 
